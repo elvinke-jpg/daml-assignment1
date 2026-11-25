@@ -1,0 +1,21 @@
+id,file,source,licence,title,author,pseudonym,year,pages
+001,data/poem_001.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,PILATE'S WIFE'S DREAM,Charlotte Brontë,Currer Bell,1846,1-7
+002,data/poem_002.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,FAITH AND DESPONDENCY,Emily Brontë,Ellis Bell,1846,8-10
+003,data/poem_003.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,A REMINISCENCE,Anne Brontë,Acton Bell,1846,10-11
+004,data/poem_004.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,MEMENTOS,Charlotte Brontë,Currer Bell,1846,11-21
+005,data/poem_005.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,STARS,Emily Brontë,Ellis Bell,1846,21-23
+006,data/poem_006.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,THE PHILOSOPHER,Emily Brontë,Ellis Bell,1846,23-25
+007,data/poem_007.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,THE ARBOUR,Anne Brontë,Acton Bell,1846,26-27
+008,data/poem_008.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,HOME,Anne Brontë,Acton Bell,1846,27-28
+009,data/poem_009.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,THE WIFE'S WILL,Charlotte Brontë,Currer Bell,1846,28-31
+010,data/poem_010.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,REMEMBRANCE,Emily Brontë,Ellis Bell,1846,31-32
+011,data/poem_011.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,"VANITAS VANITATUM, OMNIA VANITAS",Anne Brontë,Acton Bell,1846,33-34
+012,data/poem_012.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,THE WOOD,Charlotte Brontë,Currer Bell,1846,35-40
+013,data/poem_013.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,A DEATH SCENE,Emily Brontë,Ellis Bell,1846,40-42
+014,data/poem_014.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,SONG,Emily Brontë,Ellis Bell,1846,43-44
+015,data/poem_015.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,THE PENITENT,Anne Brontë,Acton Bell,1846,44
+016,data/poem_016.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,MUSIC ON CHRISTMAS MORNING,Anne Brontë,Acton Bell,1846,45-46
+017,data/poem_017.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,FRANCES,Charlotte Brontë,Currer Bell,1846,46-56
+018,data/poem_018.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,ANTICIPATION,Emily Brontë,Ellis Bell,1846,56-58
+019,data/poem_019.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,STANZAS,Anne Brontë,Acton Bell,1846,59-60
+020,data/poem_020.txt,https://archive.org/details/poemsbycurrerell00bron,CC BY-SA,GILBERT,Charlotte Brontë,Currer Bell,1846,60-75
